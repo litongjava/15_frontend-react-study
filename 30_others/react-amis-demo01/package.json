@@ -10,8 +10,6 @@
     "@types/node": "^16.18.91",
     "@types/react": "^18.2.67",
     "@types/react-dom": "^18.2.22",
-    "amis": "^6.2.2",
-    "amis-editor": "^6.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
